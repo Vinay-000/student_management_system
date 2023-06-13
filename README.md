@@ -1,3 +1,6 @@
+
+![ezgif com-optimize](https://github.com/Vinay-000/student_management_system/assets/56780725/551c9823-c4e5-42ca-914b-6f4752a2ff59)
+
 # Student Management System
 
 The Student Management System is a comprehensive project that allows for efficient management of student information. It provides functionalities such as adding, removing, updating, and searching student details in a database.
