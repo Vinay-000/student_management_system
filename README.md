@@ -36,6 +36,8 @@ The Student Management System is a comprehensive project that allows for efficie
 Contributions are welcome! If you want to contribute to this project, please follow the guidelines in the `CONTRIBUTING.md` file.
 
 
+
+
 ## Contact
 
 For any questions or inquiries, please contact dhanorkarvinay@gmail.com.
